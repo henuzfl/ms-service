@@ -1,0 +1,2 @@
+Flask==2.3.3
+Flask_JWT==0.3.2
